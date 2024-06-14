@@ -1,0 +1,6 @@
+name: VelTech Vedha 
+on:
+  pull_request:
+    types: [opened]
+permissions:
+  pull-requests: write
